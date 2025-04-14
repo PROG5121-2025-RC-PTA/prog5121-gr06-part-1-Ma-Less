@@ -10,7 +10,7 @@
 /**
  * Login.java
  * Handles user validation: username, password, phone number, and login logic.
- *AI Reference Below for cellphone checker, below.
+ *AI Reference Below for cellphone checker.
  * Created with assistance from OpenAI ChatGPT (GPT-4) – https://chat.openai.com
  * Date: 13 April 2025
  */
